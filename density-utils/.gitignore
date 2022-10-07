@@ -1,0 +1,10 @@
+*.out
+*.err
+*.html
+sbi-logs/
+*.log
+lorenz96/**/*.bz2
+slurm-logs/
+**/*/slurm-logs/
+**/*/dask-worker-space/
+**/*/dask-simulation-logs/

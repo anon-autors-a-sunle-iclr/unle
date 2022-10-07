@@ -1,0 +1,4 @@
+#!/bin/bash
+hostname
+sleep 20
+hostname

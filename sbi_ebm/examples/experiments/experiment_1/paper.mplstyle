@@ -1,0 +1,14 @@
+axes.labelsize: 20
+axes.titlesize: 24
+axes.titleweight: normal
+figure.dpi: 300
+font.family: serif
+legend.fontsize: large
+legend.title_fontsize: large
+lines.linestyle: -
+lines.linewidth: 2
+lines.marker: +
+lines.markersize: 10
+text.usetex: True
+xtick.labelsize: 16
+ytick.labelsize: 16
